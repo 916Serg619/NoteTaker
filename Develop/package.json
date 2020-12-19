@@ -1,0 +1,27 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Note taker app using node express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/916Serg619/NoteTaker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/916Serg619/NoteTaker/issues"
+  },
+  "homepage": "https://github.com/916Serg619/NoteTaker#readme"
+}
